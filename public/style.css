@@ -1,3 +1,14 @@
-body{
-   background: magenta;
+.jumbotron{
+   background: rgb(105, 238, 233);
+   font-family: 'Barriecito', cursive;
+   font-family: 'IBM Plex Mono', monospace;
+   margin-top: 40px;
+   margin-left: 60px;
+   margin-right: 60px;
+}
+
+.btn-primary{
+    background-color: rgb(235, 235, 68);
+    border: rgb(235, 235, 68);
+    color: black;
 }
