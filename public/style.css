@@ -12,3 +12,26 @@
     border: rgb(235, 235, 68);
     color: black;
 }
+
+p, h1{
+    text-align: center;
+    padding-top: 30px;
+}
+
+form{
+    background: rgb(105, 238, 233);
+    font-family: 'Barriecito', cursive;
+   font-family: 'IBM Plex Mono', monospace;
+}
+
+.form-group{
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+#submitBtn{
+    margin-top: 20px;
+    background-color: rgb(235, 235, 68);
+    border: rgb(235, 235, 68);
+    color: black;
+}
