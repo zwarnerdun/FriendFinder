@@ -35,3 +35,12 @@ form{
     border: rgb(235, 235, 68);
     color: black;
 }
+
+#myModal{
+    text-align: center;
+}
+
+.modal-title{
+    text-align: center;
+    margin-left: 80px;
+}
