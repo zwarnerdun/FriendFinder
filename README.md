@@ -7,10 +7,17 @@ of 1 through 5, 1 meaning strongly disagree and 5 meaning strongly agree. When t
 is found and returned. As well as the closest user responses are defined as the set with the lowest absolute difference for 
 all ten questions combined.
 
+## Prerequisites
+Make sure to install path and express packages.
+*How to install*
+1. Type "npm i path" in your terminal
+2. Type "npm i express" in your terminal
+
+
 ## Demo
 Check out the survey here https://frozen-peak-67922.herokuapp.com/
 
-## Packages used
+## Built With
 * *heroku*
 * *express*
 * *node*
