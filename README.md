@@ -30,7 +30,12 @@ Check out the survey here https://frozen-peak-67922.herokuapp.com/
 ![survey](https://user-images.githubusercontent.com/49568886/64915188-c7fa1180-d72f-11e9-92c6-60aa0c72bc35.PNG)
 
 ## Built With
-* *heroku*
-* *express*
-* *node*
-* *body-parser*
+* heroku
+* express
+* node
+* body-parser
+* HTML5
+* CSS
+* Bootstrap
+* Google fonts
+* JavaScript
